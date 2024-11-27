@@ -1,42 +1,102 @@
 [
     {
-        "location": "New York",
-        "temperature": "22°C",
+        "location": "Brussels",
+        "temperature": "18°C",
         "condition": "Sunny"
     },
     {
-        "location": "Los Angeles",
-        "temperature": "25°C",
+        "location": "Antwerp",
+        "temperature": "20°C",
         "condition": "Partly Cloudy"
     },
     {
-        "location": "Chicago",
-        "temperature": "18°C",
+        "location": "Ghent",
+        "temperature": "17°C",
         "condition": "Rainy"
     },
     {
-        "location": "Houston",
-        "temperature": "30°C",
+        "location": "Charleroi",
+        "temperature": "22°C",
         "condition": "Thunderstorms"
     },
     {
-        "location": "Miami",
-        "temperature": "28°C",
+        "location": "Liège",
+        "temperature": "21°C",
         "condition": "Humid"
     },
     {
-        "location": "Seattle",
+        "location": "Bruges",
         "temperature": "16°C",
         "condition": "Overcast"
     },
     {
-        "location": "Denver",
+        "location": "Namur",
+        "temperature": "19°C",
+        "condition": "Windy"
+    },
+    {
+        "location": "Leuven",
+        "temperature": "18°C",
+        "condition": "Foggy"
+    },
+    {
+        "location": "Mons",
+        "temperature": "23°C",
+        "condition": "Sunny"
+    },
+    {
+        "location": "Hasselt",
         "temperature": "20°C",
         "condition": "Clear"
     },
     {
-        "location": "Boston",
+        "location": "Kortrijk",
+        "temperature": "19°C",
+        "condition": "Cloudy"
+    },
+    {
+        "location": "Ostend",
+        "temperature": "17°C",
+        "condition": "Rainy"
+    },
+    {
+        "location": "Mechelen",
+        "temperature": "18°C",
+        "condition": "Sunny"
+    },
+    {
+        "location": "Aalst",
+        "temperature": "21°C",
+        "condition": "Partly Cloudy"
+    },
+    {
+        "location": "Sint-Niklaas",
+        "temperature": "20°C",
+        "condition": "Clear"
+    },
+    {
+        "location": "Genk",
+        "temperature": "22°C",
+        "condition": "Humid"
+    },
+    {
+        "location": "Roeselare",
+        "temperature": "16°C",
+        "condition": "Overcast"
+    },
+    {
+        "location": "Tournai",
+        "temperature": "23°C",
+        "condition": "Sunny"
+    },
+    {
+        "location": "Beringen",
         "temperature": "19°C",
         "condition": "Windy"
+    },
+    {
+        "location": "Turnhout",
+        "temperature": "18°C",
+        "condition": "Foggy"
     }
 ]

@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const weatherContainer = document.getElementById('weather-info');
             weatherContainer.innerHTML = `
                 <h2>Weather Forecast for ${forecast.location}</h2>
-                <p>Temperature: ${forecast.temperature}°C</p>
+                <p>Temperature: ${forecast.temperature}</p>
                 <p>Condition: ${forecast.condition}</p>
             `;
         })
