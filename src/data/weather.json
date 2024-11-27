@@ -1,0 +1,42 @@
+[
+    {
+        "location": "New York",
+        "temperature": "22°C",
+        "condition": "Sunny"
+    },
+    {
+        "location": "Los Angeles",
+        "temperature": "25°C",
+        "condition": "Partly Cloudy"
+    },
+    {
+        "location": "Chicago",
+        "temperature": "18°C",
+        "condition": "Rainy"
+    },
+    {
+        "location": "Houston",
+        "temperature": "30°C",
+        "condition": "Thunderstorms"
+    },
+    {
+        "location": "Miami",
+        "temperature": "28°C",
+        "condition": "Humid"
+    },
+    {
+        "location": "Seattle",
+        "temperature": "16°C",
+        "condition": "Overcast"
+    },
+    {
+        "location": "Denver",
+        "temperature": "20°C",
+        "condition": "Clear"
+    },
+    {
+        "location": "Boston",
+        "temperature": "19°C",
+        "condition": "Windy"
+    }
+]
