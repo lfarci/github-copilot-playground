@@ -1,5 +1,14 @@
-# Azure
-- Install [GitHub Copilot for Azure](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-github-copilot)
+# GitHub Copilot for Azure
+- Install [extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-github-copilot)
 
-# Bing
-- [Enabling or disabling web search](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-copilot-policies-as-an-individual-subscriber#enabling-or-disabling-web-search-for-github-copilot-chat)]
+# Mermaid diagram generation with Copilot
+- Install [extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.copilot-mermaid-diagram)
+
+# Data Analysis with Copilot
+- Install [extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-copilot-data-analysis)
+
+# VS Code Commander
+- Install [extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-commander)
+
+# Web Search with Copilot
+- [Enabling or disabling web search](hhttps://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-websearchforcopilot)

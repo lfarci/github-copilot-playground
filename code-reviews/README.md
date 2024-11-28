@@ -1,0 +1,3 @@
+- Review selection (preview)
+- Review uncommitted changes ([waitlist](https://github.com/github-copilot/code-review-waitlist))
+- Review a pull request ([waitlist](https://github.com/github-copilot/code-review-waitlist))
