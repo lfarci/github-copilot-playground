@@ -1,6 +1,12 @@
 # GitHub Copilot for Azure
 - Install [extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-github-copilot)
 
+What can you do?
+- Learn: What services should I use to deploy a PHP/ MySQL app?
+- Resource management: list all web app I've deployed
+- Cost management: How much did my subscription cost last month?
+- Azure Developer CLI (`azd`) support: Recommend a simple static web app template for my epic weather app
+
 # Mermaid diagram generation with Copilot
 - Install [extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.copilot-mermaid-diagram)
 
